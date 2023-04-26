@@ -7,8 +7,8 @@
 ## Parameter
 The **.offsetByCodePoints()** method requires two parameters as noted below.
 
-1. 'index' which is the index to be offest in int form 
-2. 'codePointOffest' which is the offset in code points also in int form
+1. 'index' which is the index to be offest in int form.
+2. 'codePointOffest' which is the offset in code points also in int form.
 
 ## **Example**
 
